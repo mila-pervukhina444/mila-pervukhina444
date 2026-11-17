@@ -1,4 +1,4 @@
-### Hi there, I’m Liudmila Pervukhina
+### 👋 Hi there, I’m Liudmila Pervukhina 
 
 #### Analyst-Developer @ Yandex Alice
 
