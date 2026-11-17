@@ -1,5 +1,14 @@
 ## Hi there 👋
+## I’m Liudmila Pervukhina
 
+### Analyst-Developer @ Yandex Alice
+
+
+🔭 I work on product analytics for Alice, focusing on how people interact with smart speakers and how to improve their experience.
+
+🤖 I develop AI agents to evaluate user interactions with smart speakers, assess the quality of conversations, and identify areas for improvement.
+
+📊 My work includes analyzing user behavior, designing quality metrics, and building evaluation pipelines to turn interaction data into actionable product insights.
 <!--
 **mila-pervukhina444/mila-pervukhina444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
