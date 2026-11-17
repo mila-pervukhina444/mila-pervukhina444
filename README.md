@@ -1,7 +1,6 @@
-## Hi there 👋
-## I’m Liudmila Pervukhina
+### Hi there, I’m Liudmila Pervukhina
 
-### Analyst-Developer @ Yandex Alice
+#### Analyst-Developer @ Yandex Alice
 
 
 🔭 I work on product analytics for Alice, focusing on how people interact with smart speakers and how to improve their experience.
